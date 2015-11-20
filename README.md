@@ -11,17 +11,5 @@ As a front end developer i work with code all the time and what i face a lot is 
 <br><code>$(' .targeted-div-class-name[attName2='+fieldName+'] ').toggle();</code>
 
 <br>5- Final code should be like this like this:
+<img src="http://ieiad.com/d-links/dynamic-loop-ex.png" alt="">
 
-<p>
-	<code>
-		$(document).ready(function(){
-		    $('.on-click-item-class-name').click(function(e){
-		        e.preventDefault();
-		            //Take the value of this class attribute "attName1" 
-		        fieldName = $(this).attr('attName1');
-		            // And for this DIV we will search for it's attribute "attName2" and Do whatever
-		        $(' .targeted-div-class-name[attName2='+fieldName+'] ').toggle();
-		    });
-		});
-	</code>
-</p>
