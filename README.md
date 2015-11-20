@@ -14,7 +14,6 @@ As a front end developer i work with code all the time and what i face a lot is 
 
 
 <code>
-<script type="text/javascript">
 	$(document).ready(function(){
 	    $('.on-click-item-class-name').click(function(e){
 	        e.preventDefault();
@@ -24,5 +23,4 @@ As a front end developer i work with code all the time and what i face a lot is 
 	        $(' .targeted-div-class-name[attName2='+fieldName+'] ').toggle();
 	    });
 	});
-</script>
 </code>
