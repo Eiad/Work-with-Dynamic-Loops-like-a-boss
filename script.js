@@ -1,7 +1,5 @@
 //Dynamic Loop target JS
 
-
-<script type="text/javascript">
 	$(document).ready(function(){
 
 	        $('.order_status_table').click(function(e){
@@ -13,4 +11,3 @@
 	        });
 		
 	});
-</script>
