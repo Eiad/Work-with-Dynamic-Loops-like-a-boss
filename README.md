@@ -10,6 +10,6 @@ As a front end developer i work with code all the time and what i face a lot is 
 <br>4- Then we target this DOM in our JS like this:
 <br><code>$(' .targeted-div-class-name[attName2='+fieldName+'] ').toggle();</code>
 
-<br>5- Final code should be like this like this:
+<br>5- Final code should be like this:
 <img src="http://ieiad.com/d-links/dynamic-loop-ex.png" alt="">
 
