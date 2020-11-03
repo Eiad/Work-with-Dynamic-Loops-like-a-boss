@@ -11,5 +11,5 @@ As a front end developer i work with different programming code all the time and
 <br><code>$(' .targeted-div-class-name[attName2='+fieldName+'] ').toggle();</code>
 
 <br>5- Final code should be like this:
-<img src="http://ieiad.com/d-links/dynamic-loop-ex.png" alt="">
+<img src="https://mo-ash.com/d-links/dynamic-loop-ex.png" alt="">
 
